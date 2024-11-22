@@ -1,0 +1,27 @@
+.picturess{
+    background-image: url(https://demo.woostify.com/haute/wp-content/uploads/sites/30/2022/02/banner.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 90vh;
+    padding-left: 40px;
+    padding-top: 40px;
+    margin-top: 40px;
+}
+.yazilar{
+        display: flex;
+        justify-content: flex-end;  
+        align-items: center;         
+        height: 100vh;     
+        text-align: right; 
+      p{
+        color: white;
+        font-size: 90px;
+        width: auto;
+        margin: 0;
+        padding-right: 15px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 10px;
+      }
+}
